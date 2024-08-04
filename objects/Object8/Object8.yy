@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_player",
+  "%Name":"Object8",
   "eventList":[],
   "managed":true,
-  "name":"obj_player",
+  "name":"Object8",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_rats_enemy",
+    "path":"sprites/spr_rats_enemy/spr_rats_enemy.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

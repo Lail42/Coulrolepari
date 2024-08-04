@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_player",
+  "%Name":"Object10",
   "eventList":[],
   "managed":true,
-  "name":"obj_player",
+  "name":"Object10",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_trash",
+    "path":"sprites/spr_trash/spr_trash.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

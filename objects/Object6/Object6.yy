@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_player",
+  "%Name":"Object6",
   "eventList":[],
   "managed":true,
-  "name":"obj_player",
+  "name":"Object6",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_lock",
+    "path":"sprites/spr_lock/spr_lock.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

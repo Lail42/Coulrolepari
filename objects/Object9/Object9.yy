@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_player",
+  "%Name":"Object9",
   "eventList":[],
   "managed":true,
-  "name":"obj_player",
+  "name":"Object9",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_restricted",
+    "path":"sprites/spr_restricted/spr_restricted.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

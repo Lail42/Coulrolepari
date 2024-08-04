@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_player",
+  "%Name":"Object11",
   "eventList":[],
   "managed":true,
-  "name":"obj_player",
+  "name":"Object11",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_well",
+    "path":"sprites/spr_well/spr_well.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

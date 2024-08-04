@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_player",
+  "%Name":"Object5",
   "eventList":[],
   "managed":true,
-  "name":"obj_player",
+  "name":"Object5",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_balcony",
+    "path":"sprites/spr_balcony/spr_balcony.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

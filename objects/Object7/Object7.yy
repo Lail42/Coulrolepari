@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_player",
+  "%Name":"Object7",
   "eventList":[],
   "managed":true,
-  "name":"obj_player",
+  "name":"Object7",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_powerup",
+    "path":"sprites/spr_powerup/spr_powerup.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
