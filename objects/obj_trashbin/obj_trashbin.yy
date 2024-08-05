@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_brickwall",
+  "%Name":"obj_trashbin",
   "eventList":[],
   "managed":true,
-  "name":"obj_brickwall",
+  "name":"obj_trashbin",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_brickwall",
-    "path":"sprites/spr_brickwall/spr_brickwall.yy",
+    "name":"spr_trashbins",
+    "path":"sprites/spr_trashbins/spr_trashbins.yy",
   },
   "spriteMaskId":null,
   "visible":true,

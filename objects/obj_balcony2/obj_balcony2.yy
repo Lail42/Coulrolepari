@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_brickwall",
+  "%Name":"obj_balcony2",
   "eventList":[],
   "managed":true,
-  "name":"obj_brickwall",
+  "name":"obj_balcony2",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_brickwall",
-    "path":"sprites/spr_brickwall/spr_brickwall.yy",
+    "name":"spr_balcony2",
+    "path":"sprites/spr_balcony2/spr_balcony2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

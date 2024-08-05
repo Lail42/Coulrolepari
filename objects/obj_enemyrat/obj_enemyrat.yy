@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_brickwall",
+  "%Name":"obj_enemyrat",
   "eventList":[],
   "managed":true,
-  "name":"obj_brickwall",
+  "name":"obj_enemyrat",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_brickwall",
-    "path":"sprites/spr_brickwall/spr_brickwall.yy",
+    "name":"spr_rats_enemy",
+    "path":"sprites/spr_rats_enemy/spr_rats_enemy.yy",
   },
   "spriteMaskId":null,
   "visible":true,

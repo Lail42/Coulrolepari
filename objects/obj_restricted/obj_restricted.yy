@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_brickwall",
+  "%Name":"obj_restricted",
   "eventList":[],
   "managed":true,
-  "name":"obj_brickwall",
+  "name":"obj_restricted",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_brickwall",
-    "path":"sprites/spr_brickwall/spr_brickwall.yy",
+    "name":"spr_restricted",
+    "path":"sprites/spr_restricted/spr_restricted.yy",
   },
   "spriteMaskId":null,
   "visible":true,

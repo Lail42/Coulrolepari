@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_brickwall",
+  "%Name":"obj_fireescape",
   "eventList":[],
   "managed":true,
-  "name":"obj_brickwall",
+  "name":"obj_fireescape",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_brickwall",
-    "path":"sprites/spr_brickwall/spr_brickwall.yy",
+    "name":"spr_fireescape",
+    "path":"sprites/spr_fireescape/spr_fireescape.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_brickwall",
+  "%Name":"obj_raccoons",
   "eventList":[],
   "managed":true,
-  "name":"obj_brickwall",
+  "name":"obj_raccoons",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_brickwall",
-    "path":"sprites/spr_brickwall/spr_brickwall.yy",
+    "name":"spr_raccoons",
+    "path":"sprites/spr_raccoons/spr_raccoons.yy",
   },
   "spriteMaskId":null,
   "visible":true,
