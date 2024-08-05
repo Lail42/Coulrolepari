@@ -104,9 +104,9 @@ else
 		/// @DnDHash : 675F922E
 		/// @DnDParent : 44237D9E
 		/// @DnDArgument : "xscale" "-1 * abs(image_xscale)"
-		/// @DnDArgument : "yscale" "image_yscale"
+		/// @DnDArgument : "yscale" " image_yscale"
 		image_xscale = -1 * abs(image_xscale);
-		image_yscale = image_yscale;
+		image_yscale =  image_yscale;
 	}
 
 	/// @DnDAction : YoYo Games.Common.If_Variable
