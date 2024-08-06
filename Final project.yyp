@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.4.1.152",
   },
   "name":"Final project",
   "resources":[
@@ -49,7 +49,9 @@
     {"id":{"name":"obj_floor","path":"objects/obj_floor/obj_floor.yy",},},
     {"id":{"name":"obj_foodcart","path":"objects/obj_foodcart/obj_foodcart.yy",},},
     {"id":{"name":"obj_key","path":"objects/obj_key/obj_key.yy",},},
+    {"id":{"name":"obj_key2","path":"objects/obj_key2/obj_key2.yy",},},
     {"id":{"name":"obj_lock","path":"objects/obj_lock/obj_lock.yy",},},
+    {"id":{"name":"obj_lock2","path":"objects/obj_lock2/obj_lock2.yy",},},
     {"id":{"name":"obj_nextroom","path":"objects/obj_nextroom/obj_nextroom.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_powerup","path":"objects/obj_powerup/obj_powerup.yy",},},
