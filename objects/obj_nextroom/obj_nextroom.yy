@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_branch",
+  "%Name":"obj_nextroom",
   "eventList":[],
   "managed":true,
-  "name":"obj_branch",
+  "name":"obj_nextroom",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_branch",
-    "path":"sprites/spr_branch/spr_branch.yy",
+    "name":"spr_nextroom",
+    "path":"sprites/spr_nextroom/spr_nextroom.yy",
   },
   "spriteMaskId":null,
   "visible":true,
