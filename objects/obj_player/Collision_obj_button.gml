@@ -19,8 +19,9 @@ if ((l542E1E84_0 > 0))
 sprite_index = spr_buttonpress;
 image_index = 0;
 
-/// @DnDAction : YoYo Games.Rooms.Next_Room
+/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
-/// @DnDHash : 7D50F647
-/// @DnDApplyTo : {obj_buttonpress}
-room_goto_next();
+/// @DnDHash : 77A11160
+/// @DnDArgument : "room" "texts"
+/// @DnDSaveInfo : "room" "texts"
+room_goto(texts);
