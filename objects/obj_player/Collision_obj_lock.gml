@@ -14,7 +14,7 @@ if(key == 1)
 
 	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1
-	/// @DnDHash : 630DB204
+	/// @DnDHash : 7B366402
 	/// @DnDApplyTo : {obj_key}
 	/// @DnDParent : 5BC577C9
 	with(obj_key) instance_destroy();
