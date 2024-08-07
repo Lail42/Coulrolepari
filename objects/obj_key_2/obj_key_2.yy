@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_branch",
+  "%Name":"obj_key_2",
   "eventList":[],
   "managed":true,
-  "name":"obj_branch",
+  "name":"obj_key_2",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"obj_floor",
-    "path":"objects/obj_floor/obj_floor.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_branch",
-    "path":"sprites/spr_branch/spr_branch.yy",
+    "name":"spr_key",
+    "path":"sprites/spr_key/spr_key.yy",
   },
   "spriteMaskId":null,
   "visible":true,
