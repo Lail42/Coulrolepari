@@ -33,4 +33,10 @@ if(key == 1)
 	{
 	
 	}
+
+	/// @DnDAction : YoYo Games.Rooms.Next_Room
+	/// @DnDVersion : 1
+	/// @DnDHash : 2CDB1B56
+	/// @DnDParent : 5BC577C9
+	room_goto_next();
 }

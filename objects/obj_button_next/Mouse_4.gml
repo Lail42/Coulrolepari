@@ -1,3 +1,16 @@
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 60F64D26
+/// @DnDArgument : "var" "keyboard_check_pressed(vk_space)"
+if(keyboard_check_pressed(vk_space) == 0)
+{
+	/// @DnDAction : YoYo Games.Rooms.Next_Room
+	/// @DnDVersion : 1
+	/// @DnDHash : 6A6D0973
+	/// @DnDParent : 60F64D26
+	room_goto_next();
+}
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 74BE7795
