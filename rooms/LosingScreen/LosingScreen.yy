@@ -1,5 +1,5 @@
 {
-  "$GMRoom":"",
+  "$GMRoom":"v1",
   "%Name":"LosingScreen",
   "creationCodeFile":"",
   "inheritCode":false,
