@@ -46,6 +46,7 @@
     {"name":"obj_powerup","order":8,"path":"objects/obj_powerup/obj_powerup.yy",},
     {"name":"obj_raccoons","order":22,"path":"objects/obj_raccoons/obj_raccoons.yy",},
     {"name":"obj_restricted","order":10,"path":"objects/obj_restricted/obj_restricted.yy",},
+    {"name":"obj_spikeboss","order":39,"path":"objects/obj_spikeboss/obj_spikeboss.yy",},
     {"name":"obj_spikes","order":36,"path":"objects/obj_spikes/obj_spikes.yy",},
     {"name":"obj_trash","order":11,"path":"objects/obj_trash/obj_trash.yy",},
     {"name":"obj_trashbin","order":19,"path":"objects/obj_trashbin/obj_trashbin.yy",},

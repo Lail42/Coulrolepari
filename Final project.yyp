@@ -66,6 +66,7 @@
     {"id":{"name":"obj_powerup","path":"objects/obj_powerup/obj_powerup.yy",},},
     {"id":{"name":"obj_raccoons","path":"objects/obj_raccoons/obj_raccoons.yy",},},
     {"id":{"name":"obj_restricted","path":"objects/obj_restricted/obj_restricted.yy",},},
+    {"id":{"name":"obj_spikeboss","path":"objects/obj_spikeboss/obj_spikeboss.yy",},},
     {"id":{"name":"obj_spikes","path":"objects/obj_spikes/obj_spikes.yy",},},
     {"id":{"name":"obj_trash","path":"objects/obj_trash/obj_trash.yy",},},
     {"id":{"name":"obj_trashbin","path":"objects/obj_trashbin/obj_trashbin.yy",},},
