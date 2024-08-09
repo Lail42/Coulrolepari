@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.6.2.162",
   },
   "name":"Final project",
   "resources":[
@@ -142,13 +142,13 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room13","path":"rooms/Room13/Room13.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"texts","path":"rooms/texts/texts.yy",},},
-    {"roomId":{"name":"Room2_1","path":"rooms/Room2_1/Room2_1.yy",},},
-    {"roomId":{"name":"texts_1","path":"rooms/texts_1/texts_1.yy",},},
     {"roomId":{"name":"Room1_1","path":"rooms/Room1_1/Room1_1.yy",},},
+    {"roomId":{"name":"texts_1","path":"rooms/texts_1/texts_1.yy",},},
+    {"roomId":{"name":"Room2_1","path":"rooms/Room2_1/Room2_1.yy",},},
     {"roomId":{"name":"texts_2","path":"rooms/texts_2/texts_2.yy",},},
     {"roomId":{"name":"Room3_1","path":"rooms/Room3_1/Room3_1.yy",},},
     {"roomId":{"name":"Room_boss","path":"rooms/Room_boss/Room_boss.yy",},},
